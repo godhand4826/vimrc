@@ -8,3 +8,6 @@ set number                  " line number
 set term=builtin_ansi       " arrow key
 set backspace=indent,eol,start
 set backspace=2
+set ruler
+set nu
+set incsearch
