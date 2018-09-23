@@ -11,3 +11,4 @@ set backspace=2
 set ruler
 set nu
 set incsearch
+set hlsearch
